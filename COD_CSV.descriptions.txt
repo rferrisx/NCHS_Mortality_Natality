@@ -1,0 +1,12 @@
+In CSV delimited format for the fields: ICD.NCHS,Title,ICD10
+From "2021 Documentation Mortality Multiple Cause-of-Death Public Use Record" from Page 11 @
+https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm#Mortality_Multiple :
+
+ICD.NCHS.386.csv:
+"358 Cause Recode A recode of the ICD cause code into 358 groups for NCHS publications. This document includes the complete list of recodes and causes included. 001-456 ... Code range (not inclusive) 153 1 Reserved Position 154-156"
+
+ICD.NCHS.135.csv:
+"113 Cause Recode A recode of the ICD cause code into 113 groups for NCHS publications. This document includes a complete list of recodes and causes included. 001-135 ... Code range (not inclusive) 157-159" 
+
+ICD.NCHS.42.csv:
+"39 Cause Recode A recode of the ICD cause code into 39 groups for NCHS publications. This document includes a complete list of recodes and causes included. 01-42 ... Code range (not inclusive) 160-161"
